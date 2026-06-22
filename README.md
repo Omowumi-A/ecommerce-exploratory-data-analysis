@@ -67,7 +67,7 @@ Business Interpretation: A strategy focused on promoting premium products may ge
 
 4. Pivot Table and Charts Analysis
 Sales by Product
-![Pivot Table and Charts Analysis](images/pivot_sales_by_product)
+![Pivot Table and Charts Analysis](images/pivot_sales_by_product.png)
 
 | Product | Orders |
 | ------- | -----: |
@@ -82,7 +82,7 @@ Sales by Product
 Key Insight: Order volume is relatively balanced across all products, suggesting diversified customer demand and reduced dependence on a single product category.
 
 Order Status
-![Pivot Table and Charts Analysis](images/pivot_order_status)
+![Pivot Table and Charts Analysis](images/pivot_order_status.png)
 
 | Status    | Orders |
 | --------- | -----: |
@@ -95,7 +95,7 @@ Order Status
 Key Insight: Cancelled orders (250) represent the largest single status category, a 20.8% cancellation rate that warrants business investigation into why orders are being cancelled before fulfillment.
 
 Sales Count by Payment Method
-![Pivot Table and Charts Analysis](images/pivot_payment_method)
+![Pivot Table and Charts Analysis](images/pivot_payment_method.png)
 
 | Payment Method | Orders |
 | -------------- | -----: |
@@ -108,7 +108,7 @@ Sales Count by Payment Method
 Key Insight: Payment method usage is relatively even across all 5 channels, with Online slightly leading. No single payment method dominates customer preference.
 
 Revenue by Referral Source
-![Pivot Table and Charts Analysis](images/pivot_referral_source)
+![Pivot Table and Charts Analysis](images/pivot_referral_source.png)
 
 | Referral Source |     Revenue |
 | --------------- | ----------: |
