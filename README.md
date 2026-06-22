@@ -67,7 +67,7 @@ Business Interpretation: A strategy focused on promoting premium products may ge
 
 4. Pivot Table and Charts Analysis
 Sales by Product
-![Sales by Product](images/pivot_sales_by_product)
+![Pivot Table and Charts Analysis](images/pivot_sales_by_product)
 
 | Product | Orders |
 | ------- | -----: |
@@ -82,7 +82,7 @@ Sales by Product
 Key Insight: Order volume is relatively balanced across all products, suggesting diversified customer demand and reduced dependence on a single product category.
 
 Order Status
-![Order Status](images/pivot_order_status)
+![Pivot Table and Charts Analysis](images/pivot_order_status)
 
 | Status    | Orders |
 | --------- | -----: |
@@ -95,7 +95,7 @@ Order Status
 Key Insight: Cancelled orders (250) represent the largest single status category, a 20.8% cancellation rate that warrants business investigation into why orders are being cancelled before fulfillment.
 
 Sales Count by Payment Method
-![Sales Count by Payment Method](images/pivot_payment_method)
+![Pivot Table and Charts Analysis](images/pivot_payment_method)
 
 | Payment Method | Orders |
 | -------------- | -----: |
@@ -108,7 +108,7 @@ Sales Count by Payment Method
 Key Insight: Payment method usage is relatively even across all 5 channels, with Online slightly leading. No single payment method dominates customer preference.
 
 Revenue by Referral Source
-![Revenue by Referral Source](images/pivot_referral_source)
+![Pivot Table and Charts Analysis](images/pivot_referral_source)
 
 | Referral Source |     Revenue |
 | --------------- | ----------: |
@@ -142,4 +142,7 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Descriptive Statistics | Outli
 - Business Insights Summary
 
 ## Files
+- [Dataset_for_Data_Analytics_Project 2.xlsx](Dataset_for_Data_Analytics_Project 2.xlsx) — Complete Excel workbook containing all analyses and visualizations.
 
+## Related Projects
+Project 1: Data Cleaning
