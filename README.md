@@ -159,6 +159,6 @@ Data Cleaning | Exploratory Data Analysis (EDA) | Descriptive Statistics | Outli
 - [Dataset_for_Data_Analytics_Project 2.xlsx](Dataset_for_Data_Analytics_Project%202.xlsx) — Complete Excel workbook containing all analyses and visualizations.
 
 ## Related Projects
-- Project 1: Ecommerce Data Cleaning (https://github.com/Omowumi-A/Ecommerce-data-cleaning)
+- Project 1: E-commerce Data Cleaning using Microsoft Excel (https://github.com/Omowumi-A/ecommerce-data-cleaning)
 - Project 3: SQL Analysis (https://github.com/Omowumi-A/Ecommerce-sql-analysis)
 - Project 4: Data Visualization *(coming soon)*
