@@ -1,5 +1,5 @@
-# Ecommerce-exploratory-data-analysis - Project 2
-Exploratory Data Analysis (EDA) of 1,200 E-Commerce Orders
+# E-commerce Exploratory Data Analysis
+Exploratory Data Analysis (EDA) of 1,200 E-Commerce Orders | A portfolio project completed as part of the DecodeLabs Data Analytics Internship.
 
 ## Overview
 This project explores a cleaned e-commerce dataset containing 1,200 customer orders. The objective was to transform raw transactional data into actionable business insights using Microsoft Excel.
